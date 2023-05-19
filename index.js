@@ -16,11 +16,11 @@ const questions = [
     },
     {
         name: 'User Story',
-        message: 'As a developer, I want a README.md generator. So that I can quickly create a professional README for a new project'
+        message: 'As a developer, I want a README.md generator. So that I can quickly create a professional README for a new project?n'
     },
     {
         name: 'Acceptance Criteria',
-        message: 'Given a command-line application that accepts user input. When I am prompted for information about my application repository. Then a high-quality, professional README.md is generated with the title of my project and sections entitled Description, table of contents, installation, usage. When I enter my project title'
+        message: 'Given a command-line application that accepts user input. When I am prompted for information about my application repository. Then a high-quality, professional README.md is generated with the title of my project and sections entitled Description, table of contents, installation, usage. When I enter my project title?'
     }
 ];
 
